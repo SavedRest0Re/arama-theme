@@ -613,6 +613,17 @@
     },
     {
       "metadata": {
+        "description": "YAML mapping keys (entity.name.tag.yaml; deeper than generic tags)"
+      },
+      "scope": [
+        "entity.name.tag.yaml"
+      ],
+      "settings": {
+        "foreground": "#4C5157"
+      }
+    },
+    {
+      "metadata": {
         "description": "Attributes"
       },
       "scope": [
