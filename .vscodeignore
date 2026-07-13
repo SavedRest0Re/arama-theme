@@ -1,0 +1,9 @@
+.git/**
+.github/**
+.cursor/**
+**/*.plan.md
+.gitignore
+.vscode/**
+*.md
+!README.md
+!LICENSE
