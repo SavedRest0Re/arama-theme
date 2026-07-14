@@ -813,8 +813,8 @@
     },
     "operator": "#E0E1E4",
     "selfParameter": "#82D2CE",
-    "variable.constant": "#AF9CFF",
-    "variable.readonly": "#AF9CFF",
+    "variable.constant": "#E0E1E4",
+    "variable.readonly": "#E0E1E4",
     "property.readonly": "#AF9CFF",
     "*.declaration": {
       "bold": false

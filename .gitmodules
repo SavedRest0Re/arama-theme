@@ -1,0 +1,3 @@
+[submodule "vendors/aramada-intellij"]
+	path = vendors/aramada-intellij
+	url = https://github.com/DavidSeptimus/armada-theme-intellij-plugin.git
