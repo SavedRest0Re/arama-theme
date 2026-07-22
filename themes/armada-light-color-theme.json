@@ -604,19 +604,19 @@
     },
     {
       "metadata": {
-        "description": "Tags"
+        "description": "Tags (HTML/JSX/XML; IntelliJ HTML_TAG_NAME / XML_TAG_NAME)"
       },
       "scope": [
         "entity.name.tag",
         "punctuation.definition.tag"
       ],
       "settings": {
-        "foreground": "#B0B0B0"
+        "foreground": "#1749BD"
       }
     },
     {
       "metadata": {
-        "description": "YAML mapping keys (entity.name.tag.yaml; deeper than generic tags)"
+        "description": "YAML mapping keys (entity.name.tag.yaml; keep distinct from HTML tags)"
       },
       "scope": [
         "entity.name.tag.yaml"
@@ -763,7 +763,7 @@
         "entity.name.tag.less"
       ],
       "settings": {
-        "foreground": "#B0B0B0"
+        "foreground": "#1749BD"
       }
     },
     {
